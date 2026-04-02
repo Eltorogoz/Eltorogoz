@@ -1,6 +1,6 @@
 ## Hi I'm Kristopher 👋
 
-<!--
+
 **Eltorogoz/Eltorogoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -20,3 +20,4 @@ Working on more group projects I currently have one group project which is in De
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kriskris9032@gmail.com)  
 - ⚡ Fun fact: ...
 -->
+<!--
