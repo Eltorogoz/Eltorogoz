@@ -59,7 +59,7 @@ Researcher • Developer
 
 ## 📂 Featured Projects
 - 🌱 [EcoTrack](https://github.com/yourrepo) – Tracking steps.
-- 🏫 [IndyAssist] (https://github.com/Eltorogoz/IndyAssist) -Help Purdue students naviage through college using AI 
+- 🏫 [IndyAssist](https://github.com/Eltorogoz/IndyAssist) -Help Purdue students naviage through college using AI 
 - 🩺 [MedSearch](https://github.com/yourrepo) – Learn about yourself   
 - 🌐 [byKris.com](https://pages.github.itap.purdue.edu/kvallada/resume/) – My personal portfolio site.  
 
