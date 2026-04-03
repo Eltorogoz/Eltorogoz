@@ -123,6 +123,7 @@ Senior CIT student at Purdue (Expected May 2026) with expertise in full-stack de
 ## Tech Stack
 
 **Languages**
+
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -130,12 +131,14 @@ Senior CIT student at Purdue (Expected May 2026) with expertise in full-stack de
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
 
 **Frameworks & Libraries**
+
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) 
 
 **Developer Tools**
+
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -155,7 +158,7 @@ Senior CIT student at Purdue (Expected May 2026) with expertise in full-stack de
 
 ## Experience
 
-### **Developer III** | [cite_start]Tigers College Consulting 
+### **Developer III** | Tigers College Consulting 
 *Sept. 2023 – Oct. 2023* 
 
 - Revolutionized digital outreach, leading to **20,000+ site impressions** and driving customer growth. 
