@@ -127,7 +127,7 @@ Senior CIT student at Purdue (Expected May 2026) with expertise in full-stack de
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-[cite_start]![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
 
 **Frameworks & Libraries**
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -147,9 +147,9 @@ Senior CIT student at Purdue (Expected May 2026) with expertise in full-stack de
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| 🏫 **IndyAssits** | Full-stack campus companion app featuring schedule syncing, dining menus, and AI assistant. [cite: 20, 23] | [cite_start]`React` `Node.js` `Supabase` `Gemini AI`  |
-| 🩺 **MedSearch** | Healthcare platform for analyzing medication side effects and pharmaceutical data. [cite: 27, 29] | [cite_start]`React` `JavaScript` `Supabase`  |
-| 🌱 **EcoTrack** | Sustainability analytics platform for tracking energy consumption and carbon footprints. [cite: 32, 34] | [cite_start]`SQL` `React` `JavaScript` `API`  |
+| 🏫 **IndyAssits** | Full-stack campus companion app featuring schedule syncing, dining menus, and AI assistant. | `React` `Node.js` `Supabase` `Gemini AI`  |
+| 🩺 **MedSearch** | Healthcare platform for analyzing medication side effects and pharmaceutical data.  | `React` `JavaScript` `Supabase`  |
+| 🌱 **EcoTrack** | Sustainability analytics platform for tracking energy consumption and carbon footprints.  | `SQL` `React` `JavaScript` `API`  |
 
 ---
 
