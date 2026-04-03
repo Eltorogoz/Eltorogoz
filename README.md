@@ -58,7 +58,7 @@ Senior CIT student at Purdue (Expected May 2026) with expertise in full-stack de
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| 🏫 **IndyAssits** | Full-stack campus companion app featuring schedule syncing, dining menus, and AI assistant. | `React` `Node.js` `Supabase` `Gemini AI`  |
+| 🏫 [hackindy](https://github.com/Antoniodeoliveirasegura/hackindy) | Full-stack campus companion app featuring schedule syncing, dining menus, and AI assistant. | `React` `Node.js` `Supabase` `Gemini AI`  |
 | 🩺 **MedSearch** | Healthcare platform for analyzing medication side effects and pharmaceutical data.  | `React` `JavaScript` `Supabase`  |
 | 🌱 **EcoTrack** | Sustainability analytics platform for tracking energy consumption and carbon footprints.  | `SQL` `React` `JavaScript` `API`  |
 
