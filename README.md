@@ -7,7 +7,7 @@
 TA · Developer · Researcher 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kristopher-valladares)
-[![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=flat-square&logo=firefox&logoColor=white)](https://github.com/Eltorogoz)
+[![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=flat-square&logo=firefox&logoColor=white)](https://pages.github.itap.purdue.edu/kvallada/resume/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:Kriskris9032@yahoo.com)
 
 </div>
@@ -23,7 +23,6 @@ Senior CIT student at Purdue (Expected May 2026) with expertise in full-stack de
 - **Former Data Science Researcher** at The Data Mine — analyzed transmission telematics data using Python and pandas
 - Selected for the **Goldman Sachs Engineering Possibilities Summit** (1 of 2,000 from 14,000+ applicants)
 - Researched **energy harvesting** for IoT security devices with VIP Allegion
-- Developed a **Pinterest brand account** to 1.6M+ impressions through SEO strategy
 - Interested in **quantitative finance, backend systems, and fintech**
 
 ---
