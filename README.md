@@ -18,11 +18,8 @@ TA · Developer · Researcher
 
 Senior CIT student at Purdue (Expected May 2026) with expertise in full-stack development, database management, and technical education. 
 
-- **Undergraduate TA** for ENGR 13300 at Purdue — supporting programming and engineering fundamentals
 - **Developer III** at Tigers College Consulting — overhauled company website and drove 20,000+ site impressions 
 - **Former Data Science Researcher** at The Data Mine — analyzed transmission telematics data using Python and pandas
-- Selected for the **Goldman Sachs Engineering Possibilities Summit** (1 of 2,000 from 14,000+ applicants)
-- Researched **energy harvesting** for IoT security devices with VIP Allegion
 - Interested in **quantitative finance, backend systems, and fintech**
 
 ---
